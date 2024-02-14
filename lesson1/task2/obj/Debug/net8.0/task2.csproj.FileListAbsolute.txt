@@ -1,0 +1,15 @@
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/task2.sourcelink.json
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/bin/Debug/net8.0/task2
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/bin/Debug/net8.0/task2.deps.json
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/bin/Debug/net8.0/task2.dll
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/bin/Debug/net8.0/task2.pdb
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/task2.dll
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/refint/task2.dll
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/task2.pdb
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/Users/darazavidova/Desktop/CHARP/lesson1/task2/obj/Debug/net8.0/ref/task2.dll
