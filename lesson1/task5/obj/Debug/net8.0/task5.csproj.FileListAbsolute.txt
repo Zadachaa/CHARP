@@ -1,0 +1,15 @@
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/task5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/task5.AssemblyInfoInputs.cache
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/task5.AssemblyInfo.cs
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/task5.csproj.CoreCompileInputs.cache
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/task5.sourcelink.json
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/bin/Debug/net8.0/task5
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/bin/Debug/net8.0/task5.deps.json
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/bin/Debug/net8.0/task5.runtimeconfig.json
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/bin/Debug/net8.0/task5.dll
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/bin/Debug/net8.0/task5.pdb
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/task5.dll
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/refint/task5.dll
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/task5.pdb
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/task5.genruntimeconfig.cache
+/Users/darazavidova/Desktop/CHARP/lesson1/task5/obj/Debug/net8.0/ref/task5.dll
