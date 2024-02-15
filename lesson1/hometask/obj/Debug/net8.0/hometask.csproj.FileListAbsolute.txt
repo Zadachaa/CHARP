@@ -1,0 +1,15 @@
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/bin/Debug/net8.0/hometask
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/bin/Debug/net8.0/hometask.deps.json
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/bin/Debug/net8.0/hometask.runtimeconfig.json
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/bin/Debug/net8.0/hometask.dll
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/bin/Debug/net8.0/hometask.pdb
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/hometask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/hometask.AssemblyInfoInputs.cache
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/hometask.AssemblyInfo.cs
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/hometask.csproj.CoreCompileInputs.cache
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/hometask.sourcelink.json
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/hometask.dll
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/refint/hometask.dll
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/hometask.pdb
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/hometask.genruntimeconfig.cache
+/Users/darazavidova/Desktop/CHARP/lesson1/hometask/obj/Debug/net8.0/ref/hometask.dll
